@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# 2D-Material-Based Avalanche Photodetector 
+2D-Material-Based Avalanche Photodetector 
 
 ## Authors
 - Tonmoy Malakar  
