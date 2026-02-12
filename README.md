@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = """# 2D-Material-Based Avalanche Photodetector 📡
+readme = """# 2D-Material-Based Avalanche Photodetector 
 
 ## Authors
 - Tonmoy Malakar  
