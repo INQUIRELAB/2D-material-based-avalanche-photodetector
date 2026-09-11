@@ -27,7 +27,7 @@ This repository is organized as a set of MATLAB analysis scripts (`.m`) and supp
 - `EQE.xlsx` — external quantum efficiency dataset.
 
 ### License
-- `LICENSE` — **MIT License**
+This repository is released under the **INQUIRE Lab Academic Research License** (see `LICENSE`). Non-commercial academic use only. Commercial use, redistribution, and derivative works require prior written permission, and no patent rights are granted.
 
 ## How to Use
 1. Open MATLAB (R2018a or newer recommended).
@@ -40,7 +40,7 @@ This repository is organized as a set of MATLAB analysis scripts (`.m`) and supp
 Some filenames intentionally match the manuscript’s plot labels. If you prefer cleaner names, consider renaming files and updating the corresponding `readtable` / `xlsread` paths inside the scripts.
 
 ## License
-This project is released under the **MIT License**.
+This repository is released under the **INQUIRE Lab Academic Research License** (see `LICENSE`). Non-commercial academic use only. Commercial use, redistribution, and derivative works require prior written permission, and no patent rights are granted.
 """
 
 out_path = Path("/mnt/data/README_updated.md")
